@@ -1,0 +1,740 @@
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apologete.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_cylinder block.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deputising.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cognomen.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hemotherapy.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_keep guard.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_twining.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_marmota monax.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/agrobiologic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/chordee.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_off-go.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/asafoetida.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arraignment.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cotangent.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/godwine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cebriones.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_buttercrunch.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_reglued.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_coke tin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypopiesia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_tarpon atlanticus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crumming.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geodynamic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_objectivist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_panicum capillare.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_spiller.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antependium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_in a pig's eye.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pressure mine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_gynecoid.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hetmanate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/florican.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_salinate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/distiller.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_libation-bearers.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geodesical.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hairy-faced.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ever-active.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_oversacrificial.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_phenetole.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anaerobiotic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/precommunicated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/evolvement.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/comelily.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/clouded.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/half-binding.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crepes.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conoy.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_postrachitic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_jeopardising.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apposition.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aponeurotic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/copartnership.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ditheist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_stay together.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anaglyph.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hemiscotosis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hidalgo.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ferrotitanium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anapaestic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/diacaustic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_international pitch.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/julianne.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crofter.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_eurybates.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_illegible.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hencoop.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dehisced.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/feighan.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fly-up.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_placeholder.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hereat.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_haiduk.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_morecambe.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/desecrater.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_mandrake root.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/excommunicative.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/filly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/half-staff.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_green hellebore.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/euro.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aldermancy.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/precompensating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_contusing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_trading estate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/favonian.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/full-fruited.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_canoe cedar.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/craggedness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/go-getter.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/croppie.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/councillorship.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_meander line.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/autodidactically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_phatic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/izar.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/assimilationist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/corvallis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cantic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/kaleidoscope.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_figure on.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gloucester.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/charterless.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aeciospore.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ballota.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/goosepimply.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_keystone sack.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gilt-edged.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conserved.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/awfulness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_tooth cough.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/decolonise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_heteroscelus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/contrastingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deducing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/coprolite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geodynamicist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glebeless.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hemimetaboly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_grim-featured.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cryptophyceae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_solemnity of mary.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_his honor.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bowstring creeper.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/centrex.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/high-pitched.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_buchan.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sacredly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/grotesqueness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/double-tonguing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_phagedena.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conelike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apparent.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/caracole.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/exsectile.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geyserite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_self-issuing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gilly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_latitudinous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_endorse.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_operetta.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/etherealise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_spinning frame.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jacobinise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/evvoia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_genus catalpa.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_undelayed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bamboozle.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unfermentable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/federation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/collude.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_explication de texte.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/chromium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unbecoming.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_semiductile.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypochilia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/foamingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/animalian.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deviation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/datemark.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antimonarchical.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_gracias.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apophysate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_two-inch.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cyclopropane.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_vicenni.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/exergue.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/counterinsurgency.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cauquenes.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/francoist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_glossematic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_dicrotal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gride.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_parthenogenetically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/depopulate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_dealing box.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/discovert.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_scantly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pacific ridley.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apex.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fencelike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/euphonize.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/heelball.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cupric.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jump-hop.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/couplement.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dainty.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_overpoeticize.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/bandinelli.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dividable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/finspot.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_lake pitch.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/genovese.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_beggarly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/groundless.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/de-emphasized.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_phobetor.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pageboy.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_untenuous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/corban.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/eth.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_crown block.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_gerodontics.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hypoalimentation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_oxford university.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gapeworm.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/foreordainment.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pyrrhula.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_term insurance.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ever-prompt.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hyperprognathous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/adiadokokinesia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_leg-breaker.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/filippino.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gertrude.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/communique.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_outwar.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_glinting.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_order dinocerata.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/abandonment.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/archine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_disablement.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/high-backed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/judgement.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/juncaginaceae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pellagrin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/counseled.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fervidly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/axlike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/censorial.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_trolley line.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hazelwood.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dermatozoon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hermine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/curdiest.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/centimeter-gram.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hermitry.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_arteria choroidea.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_coparcenary.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fatal-boding.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dim-litten.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_shabbas.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cautiously.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hidrosis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/albay.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_jugginses.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_brambliest.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/full-to-full.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_haunch bone.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_symphonized.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hind-gut.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/copywriting.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hydragog.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cutinization.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dihydrated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dodecagon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gondoletta.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/excludability.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ablator.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/corymbosely.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/carinate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deflagration.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_agonus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_briefcase.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/clichy-la-garenne.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/defibrillator.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/carpology.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/decompose.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dasyprocta.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/factually.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antagonisation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_torreon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_knarry.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_dyslogia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/great-grandaunt.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_family sciaridae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/altruistically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_senti.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_travel-spent.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/carnosine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/coastwise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/closed-out.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_nonsanctification.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_godless.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/coof.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cataphoretic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_make ceramics.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/corporative.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cartload.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_deimos.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gorgeously.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/high-priced.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/freakishness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ex-officio.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unpondered.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_back-angle.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bear's foot.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fibroid.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_extensible.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sea rocket.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/grilikhes.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_questorial.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_raincheck.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aphelion.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fauvist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fusilier.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/flagellating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/favours.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/delphinoid.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/alicante.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sipper.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antimerism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/afford.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/attractant.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deserved.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anagenesis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/alcmaeon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_golden pea.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_curse.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_untessellated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conducing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_blanket flower.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/agrobiologist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_tape grass.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_lumpenus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypokinemia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arrestingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/carolus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/bap.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/atomising.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_overpreoccupation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_molehill.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hemispheric.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/desperate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antiroyalist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/facula.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_transmission shaft.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aboudikro.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hebetic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_eriosoma lanigerum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geodetics.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gleanable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/granulite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dogmatist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arteriectasia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anorthite-basalt.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/kaolinize.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_kc.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_adage.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/diakinesis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ghostlike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_modernisation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/grallatorial.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/administrating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crispated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_tigrinya.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/association.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/casuist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_quasi-spanish.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pariah kite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_white bean.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_henrik.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sphygmogram.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_scrambler.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/highroad.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_occitan.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gluttonised.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/doted.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/junkie.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypogonadism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/confoundingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conniver.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/catamaran.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cuscuta.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hibernaculum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bumble.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_road-bike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_provincial police.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cousins-german.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hitching bar.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jaspery.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cockayne.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_elsholtzia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/claim-jumping.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hydroformylation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fair-trade.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jawbreakingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/half-volleying.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/affluent.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hyperclassicality.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/doting.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_family malpighiaceae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/awry.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/acclimatable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_alfalfa valve.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_miniaturize.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arrester.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_outarguing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/five-pound.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/defeminized.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dampish.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glycerinating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_maidu.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pseudo.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_jodhpur breeches.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hellishly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/foresightful.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/floatage.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_spill light.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dorty.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/animatedly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/atomised.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hallouf.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_saint elmo's fire.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jack-in-the-box.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cantaloup.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ge'ez.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/joypop.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_gravitational collapse.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arquebusier.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypogastric.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/kas.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sparingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_charolais.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/extraversively.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_marimba.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_furnish evidence.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geodetic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_appetency.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_tetralogy of fallot.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cystoscope.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ferbam.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_trevor.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/estrangedness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/germanizing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fatuousness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/feosol.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/baboon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/esquired.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/firewater.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_preencourage.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/excavation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/disfunction.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/caracalla.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/acronychous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/iww.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hellish.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/alluvium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glycyrrhiza.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ghain.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glc.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/femoral.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_insolubleness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bumper jack.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/first-run.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/able-bodied.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_racemate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antimension.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fine-drawing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/flavouring.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gybing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/isothermobathic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cobra.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_boulle.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_eclogue.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_welfare capitalism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deceitful.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/araceous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_mineralogist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/canossa.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fault-finding.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/javan.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_mote spoon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dishful.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_stinker.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_stenciler.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/geo-navigation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ground mine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ivar.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_peruvian monetary unit.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_col legno.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_william tindale.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_forsaken.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_james joseph tunney.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cantingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unevidential.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_misbecome.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/appliableness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_maurice hugh frederick wilkins.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/darn.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/commentator.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fabrikoid.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/congestus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hibernicism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/janizarian.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/choukoutien.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cavalierness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ethically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cantish.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/graecise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dayton.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_stroboradiograph.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crankpin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/funebrial.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fusible.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_needle file.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fervency.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_condensation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/coltrane.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_functional calculus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gingall.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fluxion.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_multiple-dome.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gumwood.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_entangleable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fabulously.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pseudolabium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cycloidal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cinnamonic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cinnamomum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hart.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_harvest festival.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/eudemon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/faucille.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hypergamous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ice dealer.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_meadow leek.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_stilboestrol.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/countervalue.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fixed-temperature.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pylades.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_settle-down.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_spark knock.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/astonishedly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/exoplasm.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/forehock.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/appositeness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_well-shown.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/finicking.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/garden.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/heavy-eyed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_springhead.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/digammated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jeremiah.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_huamuchil.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/atabal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_common scold.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gritstone.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/avanturine.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ganymedes.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hand promise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_collation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/adorably.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/acrography.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antineutrality.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/carraran.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_chronoperates paradoxus.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_broad-leaved.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/collunarium.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gargler.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_nonamenable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apodal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_pilgrimage of grace.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jealous-hood.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cynthiana.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_lewisite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/chicago.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/functioning.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_simnel.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gastrologically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_bandelette.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_grouping.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jarrell.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_approachless.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/haddock.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/isidia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sumi-e.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/euphemistic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_affixal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/diving.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deep-set.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_armored car.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/daisy-painted.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/asphyxiate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_flat-bed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/allocable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_twig borer.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_latch on.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ketamine hydrochloride.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/defaceable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glossolalist.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/destructively.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hermaphroditically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_razor-bowed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/forbearingly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/catalyst.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_wives.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/capuan.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_k-term.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_lake champlain.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/absorbance.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/anacusic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/devil.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jodhpur.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fohn.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/catechismal.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crackbrained.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fulvous.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/heraclidae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/grilling.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jawara.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_antimony ocher.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antiquaries.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hard-beating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_prechlorination.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antitrust.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/j'adoube.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_number.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ash-colored.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/corum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/discounter.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_vaqueros.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/amidic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_hardenable.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dialyzed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/all-advised.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_malaxis-unifolia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jadeite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_optical glass.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/de-stalinization.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/ascribe.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/decorum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cuchullain.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unobnoxious.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_erik adolf von willebrand.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/haemocyanin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_intenseness.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_rooming house.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jactation.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_verbaliser.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_diptera.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gnarly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_poison pea.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_muskmelon.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_zindabad.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/helipterum.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_cicippio.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/commenter.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/galavant.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/babyishly.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_georgy arbatov.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_matched.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_unbleached.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_danaidae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hyperoartia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_suzann.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/half-pike.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crescent.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cosmogeny.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/apostatism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/clypeate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conglobating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jonsonian.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/backie.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_chromesthesia.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/handwritten.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_transition.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aneroidograph.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/aetat.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_odontalgic.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_semitic-speaking.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jinsen.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cenote.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/antimilitaristically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/grim-eyed.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/alod.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_gallow tree.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_incubation period.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/esteem.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cleaner-off.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fiorin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cricket.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_psychiatry.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_shanghai dialect.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gnetaceae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/crustacean.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/actualism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/convalescently.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/etamin.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_burgos.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_promoting.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/eutheria.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/can-opener.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/defalcating.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_philanthropise.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_family casuarinaceae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/accompany.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/adenocarcinomata.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/galaxies.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/conceptually.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/glutinant.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/guttate.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/divulgatory.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_merozoite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gneissoid-granite.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_salix viminalis.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jabot.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gaspinsula.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cercopidae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/extinguishment.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hetaeric.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_creance.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/freakiest.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dyne.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cross-sue.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/coreidae.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/dopiest.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/jonas.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hygrometry.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_medium-sized.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/halibut.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_brayley.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/curly-polled.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_cresol.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_best-meaning.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/haltere.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gold-plated.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/herborizing.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_sennet.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/deanthropomorphism.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/faroes.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_ronne.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/foreshadow.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/_interagreement.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/half-bowl.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/cryobiology.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/hierophantically.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/fire-lily.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/gunther.json
+/Users/nguyennghi/MEGAsync/OneDrive/Assignments/DATA/objectJson/arterialise.json
