@@ -2,6 +2,8 @@ package artsensys.dbcontroller.neo4jcontroller;
 
 import org.neo4j.driver.v1.*;
 
+import java.util.List;
+
 
 /**
  * Created by nguyennghi on 1/27/1810:02 PM.
@@ -19,13 +21,20 @@ public class Neo4JInteraction implements AutoCloseable {
         driver.close();
     }
 
-    public void execute(final String command) {
+    public List<Record> execute(final String command) {
         try (Session session = driver.session()) {
-            String greeting = session.writeTransaction(tx -> {
-                tx.run(command);
-                return "";
+            List<Record> results = session.writeTransaction(tx -> {
+                StatementResult result = null;
+                try {
+                    result = tx.run(command);
+                }
+                catch (Exception e){
+                    e.printStackTrace();
+                }
+                assert result != null;
+                return result.list();
             });
-            System.out.println(greeting);
+            return results;
         }
 
     }

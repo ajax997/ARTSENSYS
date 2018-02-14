@@ -2,58 +2,75 @@ package artsensys.dbcontroller;
 
 import artsensys.dbcontroller.mongocontroller.MongoInteractive;
 import artsensys.dbcontroller.neo4jcontroller.Neo4JInteraction;
-import com.mongodb.util.JSON;
+import artsensys.dbcontroller.neo4jcontroller.QueryBuilder;
 import org.bson.Document;
-import org.bson.types.ObjectId;
 import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
+import org.neo4j.driver.v1.Record;
 
-import javax.print.Doc;
-import java.io.File;
-import java.io.FileInputStream;
-import java.io.IOException;
-import java.io.InputStreamReader;
+import java.io.*;
 import java.util.ArrayList;
 import java.util.Iterator;
+import java.util.List;
 import java.util.Scanner;
 
 /**
  * Created by nguyennghi on 12/11/1712:43 PM.
  */
-public class ObjectController {
-    MongoInteractive mongoInteractive = new MongoInteractive("artsensys_core_kb", "objectEntities");
-    Neo4JInteraction neo4JInteraction = new Neo4JInteraction("bolt://localhost:7687", "neo4j", "123456" );
+public class ObjectController implements AutoCloseable{
+    private MongoInteractive mongoInteractive =
+            new MongoInteractive("artsensys_core_kb", "objectEntities");
+    private Neo4JInteraction neo4JInteraction = new
+            Neo4JInteraction("bolt://localhost:7687", "neo4j", "123456" );
+   // FileWriter fileWriter = new FileWriter(new File("done.txt"));
+   // FileWriter fileWriter2 = new FileWriter(new File("nodef1.txt"));
 
+    public ObjectController() throws IOException {
 
-
-    public void start() throws Exception
+    }
+    public void start(int lines) throws Exception
     {
         InputStreamReader inputStreamReader = new InputStreamReader(new FileInputStream(new File("listfile.txt")));
         Scanner scanner = new Scanner(inputStreamReader);
+        int i = 0;
         while (scanner.hasNextLine()) {
-            String pathFile = scanner.nextLine().trim();
-            File file = new File(pathFile);
-            String fileName = file.getName();
+            i++;
 
-            if (fileName.startsWith("_") && fileName.endsWith(".json")) {
-                String entity = fileName.substring(1, fileName.length() - 5);
-                wordWithDash(entity, new JSONObject(readContent(file)));
-
-            } else {
-                if (fileName.endsWith(".json")) {
-                    String entity = fileName.substring(0, fileName.length() - 5);
-                    wordWithoutDash(entity, new JSONObject(readContent(file)));
+                if (i % 100 == 0) {
+                    System.out.println(i + "/" + (int) (double) lines + " - " + String.valueOf((i / (double) lines)*100).substring(0,5) + "%" + " - at " + i);
                 }
-            }
+                String pathFile = scanner.nextLine().trim();
+               // fileWriter.append(pathFile).append("\r\n");
 
+                File file = new File(pathFile);
+                String fileName = file.getName();
+
+                if (fileName.startsWith("_") && fileName.endsWith(".json")) {
+                    String entity = fileName.substring(1, fileName.length() - 5);
+                    wordWithDash(pathFile,entity, new JSONObject(readContent(file)));
+
+                } else {
+                    if (fileName.endsWith(".json")) {
+                        String entity = fileName.substring(0, fileName.length() - 5);
+                        wordWithoutDash(pathFile,entity, new JSONObject(readContent(file)));
+                    }
+                }
         }
-        neo4JInteraction.close();
+    }
+
+    public void test()
+    {
+        String query = "match(n) return n._id, labels(n) limit 100";
+       List<Record> res =  neo4JInteraction.execute(query);
+           Record record = res.get(0);
+           JSONObject object = new JSONObject(record.asMap());
+           System.out.println(object.toString());
 
     }
 
-    private void wordWithDash(String name, JSONObject jsonObject) throws JSONException {
-        System.out.println("[DASH]: " + name + "; Processing -->");
+    private void wordWithDash(String path,String name, JSONObject jsonObject) throws JSONException, IOException {
+       // System.out.println("[DASH]: " + name + "; Processing -->");
 
         ArrayList<String> stringKeys = new ArrayList<>();
 
@@ -62,7 +79,8 @@ public class ObjectController {
         {
             stringKeys.add(keys.next().toString());
         }
-        System.out.println("keys: " + stringKeys.size());
+       // System.out.println("keys: " + stringKeys.size());
+
 
         JSONObject root = new JSONObject();
         root.put("objectEntity", name);
@@ -73,12 +91,7 @@ public class ObjectController {
         else
             root.put("word", true);
 
-        if(stringKeys.contains("syllables"))
-        {
-            JSONObject object = jsonObject.getJSONObject("syllables");
-            JSONArray array = object.getJSONArray("list");
-            root.put("syllables", array);
-        }
+        signalNode(jsonObject, stringKeys, root);
         if(stringKeys.contains("frequency"))
         {
             Object o = jsonObject.get("frequency");
@@ -90,9 +103,18 @@ public class ObjectController {
                 root.put("frequency", jsonObject.get("frequency"));
         }
 
-        System.out.println(root.toString());
+        if(!stringKeys.contains("definitions"))
+        {
+            String singleNodeQuery = "CREATE (n "+ObjectController.standardize(root.toString())+")";
+            neo4JInteraction.execute(singleNodeQuery);
+            return;
+        }
 
-        neo4JInteraction.execute("create (n:ObjectEntity) set n ="+ ObjectController.standardize(root.toString()));
+        QueryBuilder queryBuilder = new QueryBuilder(name);
+        queryBuilder.setRootNode(ObjectController.standardize(root.toString()));
+       // System.out.println(root.toString());
+
+        //neo4JInteraction.execute("create (n:ObjectEntity) set n ="+ ObjectController.standardize(root.toString()));
 
         if(stringKeys.contains("definitions"))
         {
@@ -100,17 +122,28 @@ public class ObjectController {
 
             for (Object o : array) {
                 if (o instanceof JSONObject) {
-                    createNode((JSONObject) o, name);
+                    createNode((JSONObject) o, name, queryBuilder);
                 }
             }
         }
 
+        neo4JInteraction.execute(queryBuilder.toString());
+
 
     }
 
-    private void wordWithoutDash(String name, JSONObject jsonObject)
-    {
-        System.out.println("[WITHOUT_DASH]: " + name+ "; Processing -->");
+    private void signalNode(JSONObject jsonObject, ArrayList<String> stringKeys, JSONObject root) {
+        if(stringKeys.contains("syllables"))
+        {
+            JSONObject object = jsonObject.getJSONObject("syllables");
+            JSONArray array = object.getJSONArray("list");
+            root.put("syllables", array);
+            root.put("syllablesCount", object.get("count"));
+        }
+    }
+
+    private void wordWithoutDash(String path,String name, JSONObject jsonObject) throws IOException {
+        //System.out.println("[WITHOUT_DASH]: " + name+ "; Processing -->");
         ArrayList<String> stringKeys = new ArrayList<>();
 
         Iterator keys = jsonObject.keys();
@@ -119,7 +152,9 @@ public class ObjectController {
             stringKeys.add(keys.next().toString());
         }
 
-        System.out.println("keys: " + stringKeys.size());
+
+
+       // System.out.println("keys: " + stringKeys.size());
         JSONObject root = new JSONObject();
         root.put("objectEntity", name);
         root.put("length", name.length());
@@ -129,18 +164,23 @@ public class ObjectController {
         else
             root.put("word", true);
 
-        if(stringKeys.contains("syllables"))
-        {
-            JSONObject object = jsonObject.getJSONObject("syllables");
-            JSONArray array = object.getJSONArray("list");
-            root.put("syllables", array);
-        }
+
+        signalNode(jsonObject, stringKeys, root);
         if(stringKeys.contains("frequency"))
         {
             root.put("frequency",jsonObject.get("frequency"));
         }
 
-        neo4JInteraction.execute("create (n:ObjectEntity) set n ="+ ObjectController.standardize(root.toString()));
+
+        if(!stringKeys.contains("results"))
+        {
+            String singleNodeQuery = "CREATE (n "+ObjectController.standardize(root.toString())+")";
+            neo4JInteraction.execute(singleNodeQuery);
+            return;
+        }
+       // neo4JInteraction.execute("create (n:ObjectEntity) set n ="+ ObjectController.standardize(root.toString()));
+        QueryBuilder queryBuilder = new QueryBuilder(name);
+        queryBuilder.setRootNode(ObjectController.standardize(root.toString()));
 
         if(stringKeys.contains("results"))
         {
@@ -149,26 +189,25 @@ public class ObjectController {
             for (Object o : array) {
                 if (o instanceof JSONObject) {
 
-                    createNode((JSONObject) o, name);
+                    createNode((JSONObject) o, name, queryBuilder);
 
                 }
             }
         }
 
-        System.out.println(root.toString());
-
-        neo4JInteraction.execute("create (n:ObjectEntity) set n ="+ ObjectController.standardize(root.toString()));
+        //System.out.println(root.toString());
+        neo4JInteraction.execute(queryBuilder.toString());
 
 
     }
 
-    public void createNode(JSONObject o, String name)
+    public void createNode(JSONObject o, String name, QueryBuilder queryBuilder)
     {
         //Mongo
         Document document = Document.parse(o.toString());
         document.put("objectEntity", name);
         mongoInteractive.addNewDocument(document);
-        String partOfSpeech = ((JSONObject) o).get("partOfSpeech").toString();
+        String partOfSpeech = o.get("partOfSpeech").toString();
         String id = document.get("_id").toString();
 
 
@@ -177,31 +216,29 @@ public class ObjectController {
         if(partOfSpeech!=null && !partOfSpeech.equals("null")) {
             JSONObject object = new JSONObject();
             object.put("objectEntity", name).put("_id", id);
-            query = "CREATE (N:"+partOfSpeech.toUpperCase()+")" + "SET N = "+
-                    ObjectController.standardize(object.toString());
-            neo4JInteraction.execute(query);
+          //  query = "CREATE (N:"+partOfSpeech.toUpperCase()+")" + "SET N = "+
+            //        ObjectController.standardize(object.toString());
+            queryBuilder.addElement(partOfSpeech.toUpperCase(), ObjectController.standardize(object.toString()));
+            //neo4JInteraction.execute(query);
         }
         else
         {
             JSONObject object = new JSONObject();
             object.put("objectEntity", name).put("_id", id);
-            query = "CREATE (N:NOT_KNOW_POS)" + "SET N = "+
-                    ObjectController.standardize(object.toString());
-            neo4JInteraction.execute(query);
-        }
-        String connectQuery = "match (a:ObjectEntity { objectEntity:" +"\""+name+"\"}),"+"(b{ objectEntity: "+"\""+name+"\"})" +
-                " where labels(a)[0]<>labels(b)[0] create (a) -[:LANG_POLY_MEANING]->(b)";
-        System.out.println(connectQuery);
-        neo4JInteraction.execute(connectQuery);
 
-        String removeDuplicate = "match (s)-[r]->(e)\n" +
-                "with s,e,type(r) as typ, tail(collect(r)) as coll \n" +
-                "foreach(x in coll | delete x)";
-        neo4JInteraction.execute(removeDuplicate);
+            queryBuilder.addElement("NOT_KNOW_POS", ObjectController.standardize(object.toString()));
+
+        }
+//
+
+//        String queries = queryBuilder.toString();
+//        System.out.println(queries);
+//       // neo4JInteraction.execute(queries);
     }
 
 
     private  String readContent(File file) {
+
         String res = "";
         try {
             FileInputStream fis = new FileInputStream(file);
@@ -210,10 +247,11 @@ public class ObjectController {
             fis.close();
             res = new String(data, "UTF-8");
         } catch (Exception ignored) {
+            ignored.printStackTrace();
         }
         return res;
-
     }
+
     public static String standardize(String str)
     {
         char[] newStr = new char[str.length()];
@@ -236,4 +274,9 @@ public class ObjectController {
         return String.valueOf(newStr);
     }
 
+    @Override
+    public void close() throws Exception {
+
+
+    }
 }
