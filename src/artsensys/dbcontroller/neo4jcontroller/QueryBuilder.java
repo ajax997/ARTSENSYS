@@ -33,6 +33,12 @@ public class QueryBuilder {
         cur++;
     }
 
+    public static String paramQuery(String query, String ... params)
+    {
+        return "";
+        //TODO
+    }
+
     @Override
     public String toString() {
         for(int i = 1; i<characters.size(); i++)

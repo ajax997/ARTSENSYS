@@ -1,15 +1,14 @@
 package artsensys.dbcontroller.mongocontroller;
 
 import com.mongodb.*;
-import com.mongodb.client.FindIterable;
 import com.mongodb.client.MongoCollection;
 import com.mongodb.client.MongoCursor;
 import com.mongodb.client.MongoDatabase;
-import javafx.util.Pair;
+import com.mongodb.client.result.DeleteResult;
 import org.bson.Document;
 
 /**
- * Created by nguyennghi on 12/9/1711:26 PM.
+ * Created by nguyennghi on 12/9/17 11:26 PM.
  */
 public class MongoInteractive  implements MongoInteractiveInterface{
     MongoClient mongo;
@@ -55,7 +54,6 @@ public class MongoInteractive  implements MongoInteractiveInterface{
 
     public MongoCursor find(BasicDBObject basicDBObject)
     {
-
        return collection.find(basicDBObject).iterator();
     }
 
@@ -65,7 +63,10 @@ public class MongoInteractive  implements MongoInteractiveInterface{
     }
 
 
-
+    public DeleteResult deleteDocument(BasicDBObject basicDBObject)
+    {
+        return collection.deleteOne(basicDBObject);
+    }
 
     public void createNewDataBase(String dbName)
     {
