@@ -34,7 +34,6 @@ public class Neo4jObjectHelper {
         ArrayList<PartOfSpeech> returnVals = new ArrayList<>();
         try {
 
-
 //            System.err.println(results.get(0).get(0).toString().replace('\"', ' ').trim());
             JSONArray array = new JSONArray(results.get(0).get(0).toString());
             for (Object anArray : array) {
@@ -44,7 +43,7 @@ public class Neo4jObjectHelper {
         }
         catch (Exception e)
         {
-            e.printStackTrace();
+           // e.printStackTrace();
             return new ArrayList<>();
         }
 

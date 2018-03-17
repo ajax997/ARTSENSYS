@@ -12,5 +12,7 @@
     <orderEntry type="library" name="mongodb-driver-core-3.5.0" level="project" />
     <orderEntry type="library" name="neo4j-java-driver-1.5.0-beta03" level="project" />
     <orderEntry type="library" name="json-20160810" level="project" />
+    <orderEntry type="library" name="mongo-java-driver-3.5.0" level="project" />
+    <orderEntry type="library" name="neo4j-java-driver-1.5.1" level="project" />
   </component>
 </module>

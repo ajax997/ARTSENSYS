@@ -3,6 +3,7 @@ package artsensys.nlpunit.engstandardization;
 import artsensys.dbcontroller.ObjectController;
 import artsensys.dbcontroller.mongocontroller.MongoInteractive;
 import artsensys.dbcontroller.neo4jcontroller.Neo4JInteraction;
+import artsensys.dbcontroller.neo4jcontroller.Neo4jObjectHelper;
 import artsensys.dbcontroller.neo4jcontroller.PartOfSpeech;
 
 import java.util.ArrayList;
@@ -26,15 +27,12 @@ public class ENG_Standardized {
         this.situation = situation;
     }
 
-
-
     private ArrayList<ENG_Sentence> listSentences = new ArrayList<>();
     private ArrayList<String> listWords = new ArrayList<>();
 
     private ENG_Sentence sentence;
     public String parse(String input)
     {
-
 
         StringTokenizer tokenizer  = new StringTokenizer(input.replace("\n", " "), " ");
         StringBuilder stringBuilder = new StringBuilder();
@@ -79,12 +77,9 @@ public class ENG_Standardized {
 
         System.out.printf("there are %d sentences.\n", listSentences.size());
         for (ENG_Sentence s: listSentences) {
-           // standardizeSingleSentence(s);
-            System.out.println(s);
+           standardizeSingleSentence(s);
         }
-
         return "";
-
     }
 
     private ENG_SentenceStandardized standardizeSingleSentence(ENG_Sentence sentence)
@@ -92,10 +87,14 @@ public class ENG_Standardized {
         ENG_SentenceStandardized sentenceStandardized = new ENG_SentenceStandardized();
         for(String word: sentence.listWords)
         {
+            if(StandardizedHelper.isPunctuation(word))
+            {sentenceStandardized.addWord(new ENG_Word(word, PartOfSpeech.PUNCTUATION));}
+            else
             sentenceStandardized.addWord(new ENG_Word(word));
         }
 
-
+        sentenceStandardized.startStandardized();
+        System.out.println(sentenceStandardized);
 
         //TODO
         return new ENG_SentenceStandardized();

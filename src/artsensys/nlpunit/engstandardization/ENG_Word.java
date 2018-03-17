@@ -9,13 +9,13 @@ public class ENG_Word {
     private String word;
     private PartOfSpeech partOfSpeech;
 
-    ENG_Word(String word, PartOfSpeech partOfSpeech)
-    {
+    ENG_Word(String word, PartOfSpeech partOfSpeech) {
         this.word = word;
         this.partOfSpeech = partOfSpeech;
+
     }
-    ENG_Word(String word)
-    {
+
+    ENG_Word(String word) {
         this.word = word;
     }
 
@@ -25,6 +25,10 @@ public class ENG_Word {
 
     public void setWord(String word) {
         this.word = word;
+    }
+
+    public boolean isAssignedPOS() {
+        return partOfSpeech != null;
     }
 
     public PartOfSpeech getPartOfSpeech() {

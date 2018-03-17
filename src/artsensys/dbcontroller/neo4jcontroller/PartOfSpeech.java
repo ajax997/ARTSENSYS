@@ -22,5 +22,6 @@ public enum  PartOfSpeech {
     COMPARATIVE_ADJECTIVE,
     OBJ,
     PL,
-    DETERMINER
+    DETERMINER,
+    PUNCTUATION
 }

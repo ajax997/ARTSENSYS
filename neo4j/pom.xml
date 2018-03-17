@@ -8,6 +8,8 @@
     <artifactId>neo4j</artifactId>
     <version>3.3.0</version>
     <dependencies>
+
+
         <dependency>
             <groupId>org.neo4j</groupId>
             <artifactId>neo4j-kernel</artifactId>
